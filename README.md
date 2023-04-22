@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m a BI Developer currently working with QlikView and Qlik Sense 📈. Currently, I'm learning Power BI 📊 and Azure ☁️.
+
+Machine Learning and Data Science is my favorite topic! In my free time I study Python 🐍
+
 <!--
 **fwparj/fwparj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
